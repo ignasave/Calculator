@@ -1,0 +1,18 @@
+$font-stack: 'Roboto', sans-serif;
+.panel {
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    font-family: $font-stack;
+    text-align: right;
+}
+
+.account{
+    font-size: 20px;
+    color: #8D8D8D;
+    min-height: 24px;
+}
+
+.helper{
+    font-size: 50px;
+}
